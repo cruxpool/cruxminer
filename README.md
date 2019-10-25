@@ -1,6 +1,6 @@
 # Cruxminer
 
-## Curent version : v0.0.1
+## Curent version : v0.1.0
 
 Cruxminer is an Ethash Miner (ETH / ETC) for both Nvidia and AMD cards.
 Currently (epoch 281), the DAG is a little over 3GB, so you need a graphic card with **at least 4GB**
